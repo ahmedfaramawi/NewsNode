@@ -1,0 +1,15 @@
+{
+    "articles": [{
+            "id": 1,
+            "title": "article 1",
+            "date": "1/1/2019",
+            "text": "Article text Article text Article text Article text Article text Article text"
+        },
+        {
+            "id": 2,
+            "title": "article 1",
+            "date": "1/1/2019",
+            "text": "Article text Article text Article text Article text Article text Article text"
+        }
+    ]
+}
